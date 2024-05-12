@@ -24,7 +24,7 @@ Typing Tester is a web application that allows users to test their typing speed 
 5. View the results, including typing speed (words per minute) and accuracy.
 
 **Additional Information:**
-- Project Status: [Active](https://www.arindal1.github.io/typing-tester-webapp/)
+- Project Status: [Active](https://arindal1.github.io/typing-tester-webapp/)
 - License: [MIT License](LICENSE)
 
 **Future Enhancements:**
@@ -37,7 +37,7 @@ Typing Tester is a web application that allows users to test their typing speed 
 **Screenshots:** <br>
 ![image](res/1.png)
 
-**Demo:** [link](https://www.arindal1.github.io/typing-tester-webapp/)
+**Demo:** [link](https://arindal1.github.io/typing-tester-webapp/)
 
 ## Contact
 
